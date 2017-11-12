@@ -14,6 +14,47 @@ Syntax highlighted code block
 # Header 1 AAABBBB
 ## Header 2 BBBFVVV
 ### Header 3 CCCDDDDD
+This text will be italic This will be also be italic
+
+This text will be bolt This will also be bold
+
+You can combine them
+
+Item 1
+Item 2
+Item 2a
+Item 2b
+Item 1
+Item 2
+Item 3
+Item 3a
+ITem 3b GibHub Logo Format: Alt Text
+Http:://github.com - automatic! GitHub
+
+As Kanye West said:
+
+We're living the future so the present is our past.
+I think you should use an ''element here instead.
+
+'''javascript function fancyAlert(arg) { if(arg){ $.facebox({div:'#foo'}) } } '''
+
+function facyAlert(arg) {
+  if(arg)  {
+    $.facebox({div:'#foo'})
+  }
+}
+def foo(): if not bar: return True
+
+-[x] @mentions, #refs, links, formatting, and tags supported -[x] list syntax required (any unordered or ordered list support) -[x] this is a complete item -[ ] this is an incomplete item
+
+First Header	Second Header
+Content from cell 1	Contents from cell 2
+Content in the first column	Content in the second column
+16c999e8c71134401a78d4d46435517b2271d6ac mojombo@16c999e8c71134401a78d4d46435517b2271d6ac mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6a
+
+#1 mojombo#1 mojombo/github-flavored-markdown#1
+
+
 
 - Bulleted
 - List
